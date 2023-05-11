@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 248, 218);
+}
+
+
+.responsive {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
+
+main {
+    height: 80vh;
+    align-content: space-evenly;
+    
+}
+
+
+footer {
+    height: 20vh;
+}
